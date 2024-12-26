@@ -3,11 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://walididrissi.github.io/Count-with-React/",
+  "homepage": "https://walididrissi.github.io/Count-with-React/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
